@@ -1,0 +1,40 @@
+C:\Users\diana\Documents\proiect sded\simulator\simulator\bin\Debug\simulator.exe.config
+C:\Users\diana\Documents\proiect sded\simulator\simulator\bin\Debug\simulator.exe
+C:\Users\diana\Documents\proiect sded\simulator\simulator\bin\Debug\simulator.pdb
+C:\Users\diana\Documents\proiect sded\simulator\simulator\obj\Debug\simulator.csprojAssemblyReference.cache
+C:\Users\diana\Documents\proiect sded\simulator\simulator\obj\Debug\simulator.Form1.resources
+C:\Users\diana\Documents\proiect sded\simulator\simulator\obj\Debug\simulator.Properties.Resources.resources
+C:\Users\diana\Documents\proiect sded\simulator\simulator\obj\Debug\simulator.csproj.GenerateResource.cache
+C:\Users\diana\Documents\proiect sded\simulator\simulator\obj\Debug\simulator.csproj.CoreCompileInputs.cache
+C:\Users\diana\Documents\proiect sded\simulator\simulator\obj\Debug\simulator.exe
+C:\Users\diana\Documents\proiect sded\simulator\simulator\obj\Debug\simulator.pdb
+D:\Roxana\Documents\ANUL 2 SEM II\SDED\TEMA 2.Proiect\ETAPA3\simulator\simulator\bin\Debug\simulator.exe.config
+D:\Roxana\Documents\ANUL 2 SEM II\SDED\TEMA 2.Proiect\ETAPA3\simulator\simulator\bin\Debug\simulator.exe
+D:\Roxana\Documents\ANUL 2 SEM II\SDED\TEMA 2.Proiect\ETAPA3\simulator\simulator\bin\Debug\simulator.pdb
+D:\Roxana\Documents\ANUL 2 SEM II\SDED\TEMA 2.Proiect\ETAPA3\simulator\simulator\obj\Debug\simulator.csprojAssemblyReference.cache
+D:\Roxana\Documents\ANUL 2 SEM II\SDED\TEMA 2.Proiect\ETAPA3\simulator\simulator\obj\Debug\simulator.Form1.resources
+D:\Roxana\Documents\ANUL 2 SEM II\SDED\TEMA 2.Proiect\ETAPA3\simulator\simulator\obj\Debug\simulator.Properties.Resources.resources
+D:\Roxana\Documents\ANUL 2 SEM II\SDED\TEMA 2.Proiect\ETAPA3\simulator\simulator\obj\Debug\simulator.csproj.GenerateResource.cache
+D:\Roxana\Documents\ANUL 2 SEM II\SDED\TEMA 2.Proiect\ETAPA3\simulator\simulator\obj\Debug\simulator.csproj.CoreCompileInputs.cache
+D:\Roxana\Documents\ANUL 2 SEM II\SDED\TEMA 2.Proiect\ETAPA3\simulator\simulator\obj\Debug\simulator.exe
+D:\Roxana\Documents\ANUL 2 SEM II\SDED\TEMA 2.Proiect\ETAPA3\simulator\simulator\obj\Debug\simulator.pdb
+D:\OneDrive - Universitatea Politehnica Bucuresti\ANUL II\SEMESTRUL II\SDED\TEMA 2.Proiect\ETAPA3\simulator\simulator\bin\Debug\simulator.exe.config
+D:\OneDrive - Universitatea Politehnica Bucuresti\ANUL II\SEMESTRUL II\SDED\TEMA 2.Proiect\ETAPA3\simulator\simulator\bin\Debug\simulator.exe
+D:\OneDrive - Universitatea Politehnica Bucuresti\ANUL II\SEMESTRUL II\SDED\TEMA 2.Proiect\ETAPA3\simulator\simulator\bin\Debug\simulator.pdb
+D:\OneDrive - Universitatea Politehnica Bucuresti\ANUL II\SEMESTRUL II\SDED\TEMA 2.Proiect\ETAPA3\simulator\simulator\obj\Debug\simulator.csprojAssemblyReference.cache
+D:\OneDrive - Universitatea Politehnica Bucuresti\ANUL II\SEMESTRUL II\SDED\TEMA 2.Proiect\ETAPA3\simulator\simulator\obj\Debug\simulator.Form1.resources
+D:\OneDrive - Universitatea Politehnica Bucuresti\ANUL II\SEMESTRUL II\SDED\TEMA 2.Proiect\ETAPA3\simulator\simulator\obj\Debug\simulator.Properties.Resources.resources
+D:\OneDrive - Universitatea Politehnica Bucuresti\ANUL II\SEMESTRUL II\SDED\TEMA 2.Proiect\ETAPA3\simulator\simulator\obj\Debug\simulator.csproj.GenerateResource.cache
+D:\OneDrive - Universitatea Politehnica Bucuresti\ANUL II\SEMESTRUL II\SDED\TEMA 2.Proiect\ETAPA3\simulator\simulator\obj\Debug\simulator.csproj.CoreCompileInputs.cache
+D:\OneDrive - Universitatea Politehnica Bucuresti\ANUL II\SEMESTRUL II\SDED\TEMA 2.Proiect\ETAPA3\simulator\simulator\obj\Debug\simulator.exe
+D:\OneDrive - Universitatea Politehnica Bucuresti\ANUL II\SEMESTRUL II\SDED\TEMA 2.Proiect\ETAPA3\simulator\simulator\obj\Debug\simulator.pdb
+D:\My documents\simulator\simulator\bin\Debug\simulator.exe.config
+D:\My documents\simulator\simulator\bin\Debug\simulator.exe
+D:\My documents\simulator\simulator\bin\Debug\simulator.pdb
+D:\My documents\simulator\simulator\obj\Debug\simulator.csprojAssemblyReference.cache
+D:\My documents\simulator\simulator\obj\Debug\simulator.Form1.resources
+D:\My documents\simulator\simulator\obj\Debug\simulator.Properties.Resources.resources
+D:\My documents\simulator\simulator\obj\Debug\simulator.csproj.GenerateResource.cache
+D:\My documents\simulator\simulator\obj\Debug\simulator.csproj.CoreCompileInputs.cache
+D:\My documents\simulator\simulator\obj\Debug\simulator.exe
+D:\My documents\simulator\simulator\obj\Debug\simulator.pdb
